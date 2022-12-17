@@ -42,8 +42,8 @@ document.querySelector("#app").innerHTML = `
     ${createCard("09/12","sexta",createGame("croatia","(4) x (2)","brazil")+createGame("netherlands","(3) x (4)","argentina"))}
     ${createCard("10/12","sábado",createGame("morocco","1 x 0","portugal")+createGame("england","1 x 0","france"))}
     ${createCard("13/12","terça",createGame("argentina","3 x 0","croatia"))}
-    ${createCard("14/12","quarta",createGame("france","16:00","morocco"))}
-    ${createCard("17/12","sábado",createGame("","12:00",""))}
-    ${createCard("18/12","domingo",createGame("","12:00",""))}
+    ${createCard("14/12","quarta",createGame("france","2 x 0","morocco"))}
+    ${createCard("17/12","sábado",createGame("croatia","12:00","morocco"))}
+    ${createCard("18/12","domingo",createGame("argentina","12:00","france"))}
   </main>
 `

@@ -110,6 +110,20 @@ header ul li a:hover{
 
 /* Página resuts */
 
+#container-table{
+  overflow-x: auto;
+}
+table{
+  font-size: 1.3em;
+  color: #e1e1e6;
+  text-align: center;
+}
+th, td{
+  padding-left: 10px;
+}
+.equip{
+  text-align: left;
+}
 
 @media screen and (width >= 720px){
 #cards{
